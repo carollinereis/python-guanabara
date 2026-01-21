@@ -24,3 +24,10 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 - Exercício 011 - [Pintando Parede](/mundo_1/tratando-dados-fazendo-contas/ex011.py)
 - Exercício 012 - [Calculando Descontos](/mundo_1/tratando-dados-fazendo-contas/ex012.py)
 - Exercício 013 - [Reajuste Salarial](/mundo_1/tratando-dados-fazendo-contas/ex013.py)
+- Exercício 014 - [Conversor de Temperaturas](/mundo_1/tratando-dados-fazendo-contas/ex014.py)
+- Exercício 015 - [Aluguel de Carros](/mundo_1/tratando-dados-fazendo-contas/ex015.py)
+
+#### Usando Módulos de Python
+
+- Exercício 016 [Quebrando um número](/mundo_1/usando-modulos-do-python/ex016.py)
+- Exercício 017 [Catetos e Hipotenusa](/mundo_1/usando-modulos-do-python/ex017.py)
