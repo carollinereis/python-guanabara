@@ -29,5 +29,5 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 
 #### Usando Módulos de Python
 
-- Exercício 016 [Quebrando um número](/mundo_1/usando-modulos-do-python/ex016.py)
-- Exercício 017 [Catetos e Hipotenusa](/mundo_1/usando-modulos-do-python/ex017.py)
+- Exercício 016 - [Quebrando um número](/mundo_1/usando-modulos-do-python/ex016.py)
+- Exercício 017 - [Catetos e Hipotenusa](/mundo_1/usando-modulos-do-python/ex017.py)
