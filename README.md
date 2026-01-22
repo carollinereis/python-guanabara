@@ -31,3 +31,7 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 
 - Exercício 016 - [Quebrando um número](/mundo_1/usando-modulos-do-python/ex016.py)
 - Exercício 017 - [Catetos e Hipotenusa](/mundo_1/usando-modulos-do-python/ex017.py)
+- Exercício 018 - [Seno, Cosseno e Tangente](/usando-modulos-do-python/ex018.py)
+- Exercício 019 - [Sorteando um item na lista](/usando-modulos-do-python/ex019.py)
+- Exercício 020 - [Sorteando uma ordem na lista](/usando-modulos-do-python/ex20.py)
+- Exercício 021 - [Tocando um MP3](/usando-modulos-do-python/ex21.py)
