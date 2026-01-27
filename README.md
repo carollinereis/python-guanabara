@@ -35,3 +35,15 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 - Exercício 019 - [Sorteando um item na lista](/mundo_1/usando-modulos-do-python/ex019.py)
 - Exercício 020 - [Sorteando uma ordem na lista](/mundo_1/usando-modulos-do-python/ex20.py)
 - Exercício 021 - [Tocando um MP3](/mundo_1/usando-modulos-do-python/ex21.py)
+- Exercício 022 - [Analisador de Textos](/mundo_1/usando-modulos-do-python/ex022.py)
+- Exercício 023 - [Separando digitos de um número](/mundo_1/usando-modulos-do-python/ex023.py)
+- Exercício 024 - [Verificando as primeiras letras de um texto](/mundo_1/usando-modulos-do-python/ex024.py)
+- Exercício 025 - [Procurando uma string dentro da outra](/mundo_1/usando-modulos-do-python/ex025.py)
+- Exercício 026 - [Primeria e última ocorrência de uma string](/mundo_1/usando-modulos-do-python/ex026.py)
+- Exercício 027 - [Primeiro e último nome de uma pessoa](/mundo_1/usando-modulos-do-python/ex027.py)
+
+#### 📝 Notas 
+
+- Aula 7 - [Operadores aritméticos](/notas-📝/aula07a.md)
+- Aula 8 - [Utilizando Módulos](/notas-python/aula08.md)
+- Aula 9 - [Manipulando Texto](/notas-python/aula09.py)
