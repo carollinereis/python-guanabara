@@ -42,8 +42,16 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 - Exercício 026 - [Primeria e última ocorrência de uma string](/mundo_1/usando-modulos-do-python/ex026.py)
 - Exercício 027 - [Primeiro e último nome de uma pessoa](/mundo_1/usando-modulos-do-python/ex027.py)
 
+#### Condições parte 1
+
+- Exercício 028 - [Jogo da adivinhação](/mundo_1/condicoes-pt-1/ex028.py)
+- Exercício 029 - [Radar Eletrônico](/mundo_1/condicoes-pt-1/ex029.py)
+- Exercício 030 - [Par ou Impar](/mundo_1/condicoes-pt-1/ex030.py)
+- Exercício 031 - [Custo da Viagem](/mundo_1/condicoes-pt-1/ex031.py)
+
 #### 📝 Notas 
 
 - Aula 7 - [Operadores aritméticos](/notas-📝/aula07a.md)
 - Aula 8 - [Utilizando Módulos](/notas-python/aula08.md)
 - Aula 9 - [Manipulando Texto](/notas-python/aula09.py)
+- Aula 10 - [Condições](/notas-python/aula10.py)
