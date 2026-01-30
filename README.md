@@ -48,6 +48,10 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 - Exercício 029 - [Radar Eletrônico](/mundo_1/condicoes-pt-1/ex029.py)
 - Exercício 030 - [Par ou Impar](/mundo_1/condicoes-pt-1/ex030.py)
 - Exercício 031 - [Custo da Viagem](/mundo_1/condicoes-pt-1/ex031.py)
+- Exercício 032 - [Ano Bissexto](/mundo_1/condicoes-pt-1/ex032.py)
+- Exercício 033 - [Maior e menor valores](/mundo_1/condicoes-pt-1/ex033.py)
+- Exercício 034 - [Aumentos múltiplos](/mundo_1/condicoes-pt-1/ex034.py)
+- Exercício 035 - [Analisando Triângulo](/mundo_1/condicoes-pt-1/ex035.py)
 
 #### 📝 Notas 
 
