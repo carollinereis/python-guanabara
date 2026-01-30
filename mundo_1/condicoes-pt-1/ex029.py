@@ -8,10 +8,10 @@ A multa vai custar R$7,00 por cada km acima do limite.
 vel = int(input('Digite a velocidade do carro: '))
 velmax = 80
 valorKm = 7
-adicional = (vel - velmax) * valorKm
-multa = vel + adicional
+multa = (vel - velmax) * valorKm
+
 
 if vel <= velmax:
-    print('Você passou abaixo do limite de velocidade! ')
+    print('Tenha um bom dia, dirija com segurança! ')
 else:
-    print(f'Sua multa é de R${multa}.')
+    print(f'Sua multa é de R${multa:.2f}')
