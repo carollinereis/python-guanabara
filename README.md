@@ -53,9 +53,25 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 - Exercício 034 - [Aumentos múltiplos](/mundo_1/condicoes-pt-1/ex034.py)
 - Exercício 035 - [Analisando Triângulo](/mundo_1/condicoes-pt-1/ex035.py)
 
+### Mundo 2
+
+- Exercício 036 - [Aprovando Empréstimo](/mundo_2/condicoes-pt-2/ex036.py)
+- Exercício 037 - [Conversor de bases númericas](/mundo_2/condicoes-aninhadas/ex037.py)
+- Exercício 038 - [Comparando números](/mundo_2/condicoes-aninhadas/ex038.py)
+- Exercício 039 - [Alistamento Militar](/mundo_2/condicoes-aninhadas/ex039.py)
+- Exercício 040 - [Aquele clássico da média](/mundo_2/condicoes-aninhadas/ex040.py)
+- Exercício 041 - [Classificando Atletas](/mundo_2/condicoes-aninhadas/ex041.py)
+- Exercício 042 - [Analisando Triângulos](/mundo_2/condicoes-aninhadas/ex042.py)
+- Exercício 043 - [Indice de Massa Corporal](/mundo_2/condicoes-aninhadas/ex043.py)
+- Exercício 044 - [Gerenciador de Pagamentos](/mundo_2/condicoes-aninhadas/ex044.py)
+- Exercício 045 - [GAME: Pedra Papel e Tesoura](/mundo_2/condicoes-aninhadas/ex045.py)
+
+
+
 #### 📝 Notas 
 
-- Aula 7 - [Operadores aritméticos](/notas-📝/aula07a.md)
-- Aula 8 - [Utilizando Módulos](/notas-python/aula08.md)
-- Aula 9 - [Manipulando Texto](/notas-python/aula09.py)
-- Aula 10 - [Condições](/notas-python/aula10.py)
+- Aula 7 -  [Operadores aritméticos](/notas-📝/aula07a.md)
+- Aula 8 -  [Utilizando Módulos](/notas-python/aula08.md)
+- Aula 9 -  [Manipulando Texto](/notas-python/aula09.py)
+- Aula 10 - [Condições ](/notas-python/aula10.py)
+- Aula 12 - [Condições Aninhadas](/notas-python/aula12.py)
