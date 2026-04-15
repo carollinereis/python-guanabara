@@ -65,7 +65,19 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 - Exercício 043 - [Indice de Massa Corporal](/mundo_2/condicoes-aninhadas/ex043.py)
 - Exercício 044 - [Gerenciador de Pagamentos](/mundo_2/condicoes-aninhadas/ex044.py)
 - Exercício 045 - [GAME: Pedra Papel e Tesoura](/mundo_2/condicoes-aninhadas/ex045.py)
+- Exercício 046 - [Contagem Regressiva](/mundo_2/estrutura-repeticao-for/ex046.py)
+- Exercício 047 - [Contagem de pares](/mundo_2/estrutura-repeticao-for/ex047.py)
+- Exercício 048 - [Soma ímpares múltiplos de três](/mundo_2/estrutura-repeticao-for/ex048.py)
+- Exercício 049 - [Tabuada v.2.0](/mundo_2/estrutura-repeticao-for/ex049.py)
+- Exercício 050 - [Soma dos pares](/mundo_2/estrutura-repeticao-for/ex050.py)
+- Exercício 051 - [Progressão Aritmética](/mundo_2/estrutura-repeticao-for/ex051.py)
+- Exercício 052 - [Números primos](/mundo_2/estrutura-repeticao-for/ex052.py)
+- Exercício 053 - [Detector de Palíndromo](/mundo_2/estrutura-repeticao-for/ex053.py)
+- Exercício 054 - [Grupo de Maioridade](/mundo_2/estrutura-repeticao-for/ex054.py)
+- Exercício 055 - [Maior e menor da sequência](/mundo_2/estrutura-repeticao-for/ex055.py)
+- Exercício 056 - [Analisador Completo](/mundo_2/estrutura-repeticao-for/ex056.py)
 
+#### Repetições in Python (for)
 
 
 #### 📝 Notas 
@@ -75,3 +87,4 @@ Repositório dedicado às soluções dos desafios do curso de Python 3, ministra
 - Aula 9 -  [Manipulando Texto](/notas-python/aula09.py)
 - Aula 10 - [Condições ](/notas-python/aula10.py)
 - Aula 12 - [Condições Aninhadas](/notas-python/aula12.py)
+- Aula 13 - [Estrutura de repetição for](/notas-python/aula13.py)
